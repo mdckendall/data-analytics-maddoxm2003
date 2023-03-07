@@ -38,7 +38,6 @@ class Main {
         System.out.println(data);
       }
     } else if (input.equals("5")) {
-      System.out.println("exiting...");
       return;
     }
     }
